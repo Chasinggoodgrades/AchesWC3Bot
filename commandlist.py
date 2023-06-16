@@ -1,0 +1,2 @@
+cmds = "?Query, ?ping, ?getlobbies"
+
